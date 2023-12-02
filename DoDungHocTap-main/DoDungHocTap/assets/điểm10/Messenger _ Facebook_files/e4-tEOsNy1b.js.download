@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("MAWStoryReplyDeferred",["JSResourceForInteraction"],(function(a,b,c,d,e,f,g){"use strict";a=c("JSResourceForInteraction")("MAWStoryReply").__setRef("MAWStoryReplyDeferred");b=a;g["default"]=b}),98);
+__d("MAWVerifyThreadCutoverDeferred",["requireDeferred"],(function(a,b,c,d,e,f,g){"use strict";a=c("requireDeferred")("MAWVerifyThreadCutover").__setRef("MAWVerifyThreadCutoverDeferred");g["default"]=a}),98);

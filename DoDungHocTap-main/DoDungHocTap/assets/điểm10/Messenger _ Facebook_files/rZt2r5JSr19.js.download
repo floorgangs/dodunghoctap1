@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("MWEmoji.react",["CometEmoji.react","EmojiRenderer","react"],(function(a,b,c,d,e,f,g){"use strict";var h,i=h||(h=d("react")),j=h.useMemo;function a(a){var b=a.emoji,e=a.size;a=a.testid;return i.jsx(c("CometEmoji.react"),{emoji:j(function(){var a=d("EmojiRenderer").parse(b);a=a[0];return a!=null?a.emoji:[b]},[b]),size:e,testid:void 0})}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
+__d("MWXSwitch.react",["cr:1925","cr:1926","react"],(function(a,b,c,d,e,f,g){"use strict";var h,i=h||d("react");function a(a){var c=a.icon,d=a.size;a=babelHelpers.objectWithoutPropertiesLoose(a,["icon","size"]);if(b("cr:1925"))return i.jsx(b("cr:1925"),babelHelpers["extends"]({},a,{icon:c,size:d}));return b("cr:1926")?i.jsx(b("cr:1926"),babelHelpers["extends"]({},a)):null}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
